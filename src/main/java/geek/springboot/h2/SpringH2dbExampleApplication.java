@@ -1,4 +1,4 @@
-package geek.springboot.h2.spring_h2db_example;
+package geek.springboot.h2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
