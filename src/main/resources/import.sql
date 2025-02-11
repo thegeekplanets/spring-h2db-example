@@ -1,0 +1,10 @@
+insert into Employee (id, name, designation, email, gender, salary) values (1, 'Joyce', 'Sales Associate', 'jallen0@toplist.cz', 'Female', 56209);
+insert into Employee (id, name, designation, email, gender, salary) values (2, 'Matthiew', 'Nurse Practicioner', 'mmulrenan1@xing.com', 'Male', 15685);
+insert into Employee (id, name, designation, email, gender, salary) values (3, 'Clement', 'Pharmacist', 'cbusch2@bizjournals.com', 'Male', 27503);
+insert into Employee (id, name, designation, email, gender, salary) values (4, 'Bay', 'Programmer III', 'brubberts3@amazon.com', 'Male', 85120);
+insert into Employee (id, name, designation, email, gender, salary) values (5, 'Bancroft', 'Senior Quality Engineer', 'bdominici4@devhub.com', 'Non-binary', 71814);
+insert into Employee (id, name, designation, email, gender, salary) values (6, 'Kelley', 'Accounting Assistant II', 'kfyers5@slate.com', 'Male', 28416);
+insert into Employee (id, name, designation, email, gender, salary) values (7, 'Teresa', 'Nuclear Power Engineer', 'tegarr6@stanford.edu', 'Female', 32750);
+insert into Employee (id, name, designation, email, gender, salary) values (8, 'Maryjane', 'Account Representative III', 'mkinzel7@disqus.com', 'Female', 95903);
+insert into Employee (id, name, designation, email, gender, salary) values (9, 'Thorvald', 'Associate Professor', 'tvolke8@opera.com', 'Male', 74177);
+insert into Employee (id, name, designation, email, gender, salary) values (10, 'Josiah', 'Media Manager II', 'jmccurlye9@goo.ne.jp', 'Male', 3662);
