@@ -2,13 +2,9 @@
 
 <p id="description">Spring application to implements Restful API with H2 database using spring boot.</p>
 
-<h2>🚀 Demo</h2>
+## Authors
 
-[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-
-<h2>🚀 H2 Database Console</h2>
-
-[http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+- [@thegeekplanets](https://www.github.com/thegeekplanets)
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -18,8 +14,21 @@
 mvn clean install
 ```
 
-  
-  
+### Run the application using docker
+To deploy this project run
+
+1. Install the docker application 
+
+2. Pull the latest docker image
+```
+  docker pull thegeekplanets/spring-h2db-example
+```
+3. Run the docker image
+```
+  docker run -p 8080:8080 thegeekplanets/spring-h2db-example
+```
+
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
@@ -31,6 +40,14 @@ Technologies used in the project:
 *   H2 Database
 *   Lombok
 *   Hibernate
+
+<h2>🚀 Demo</h2>
+
+[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+
+<h2>🚀 H2 Database Console</h2>
+
+[http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 <h2>🛡️ License:</h2>
 
